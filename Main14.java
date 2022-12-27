@@ -1,7 +1,7 @@
 //circular array
 
 import java.util.*;
-public class Main{
+public class Main14{
 
      public static void main(String []args){
           int arr[] = {-3,-2,-1,0,1,2,3};
